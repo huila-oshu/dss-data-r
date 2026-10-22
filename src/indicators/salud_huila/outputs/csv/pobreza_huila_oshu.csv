@@ -1,0 +1,465 @@
+iso3,territorio,anio,sexo,area,sexo_jefe_hogar,privaciones,dimension,valor,indicador,medida,tipo_desagregacion,hoja_origen
+COL,Huila,2018,NA,NA,NA,NA,Educación,35,Pobreza multidimensional,Contribución por dimensión al IPM,Dimensión,IPM contribuciones
+COL,Huila,2018,NA,NA,NA,NA,Niñez y Juventud,16.1,Pobreza multidimensional,Contribución por dimensión al IPM,Dimensión,IPM contribuciones
+COL,Huila,2018,NA,NA,NA,NA,Trabajo,29.6,Pobreza multidimensional,Contribución por dimensión al IPM,Dimensión,IPM contribuciones
+COL,Huila,2018,NA,NA,NA,NA,Salud,9.3,Pobreza multidimensional,Contribución por dimensión al IPM,Dimensión,IPM contribuciones
+COL,Huila,2018,NA,NA,NA,NA,Vivienda,10,Pobreza multidimensional,Contribución por dimensión al IPM,Dimensión,IPM contribuciones
+COL,Huila,2018,NA,NA,Hombre,NA,NA,17.1,Pobreza multidimensional,Incidencia del IPM,Sexo del jefe del hogar,IPM jefe sexo
+COL,Huila,2018,NA,NA,Mujer,NA,NA,19.9,Pobreza multidimensional,Incidencia del IPM,Sexo del jefe del hogar,IPM jefe sexo
+COL,Huila,2018,NA,Total,NA,Analfabetismo,NA,9.1,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2018,NA,Total,NA,Bajo logro educativo,NA,59.7,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2018,NA,Total,NA,Barreras a servicios para cuidado de la primera infancia,NA,8.7,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2018,NA,Total,NA,Barreras de acceso a servicios de salud,NA,5.1,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2018,NA,Total,NA,Desempleo de larga duración,NA,13.2,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2018,NA,Total,NA,Hacinamiento crítico,NA,5.7,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2018,NA,Total,NA,Inadecuada eliminación de excretas,NA,7.2,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2018,NA,Total,NA,Inasistencia escolar,NA,4,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2018,NA,Total,NA,Material inadecuado de paredes exteriores,NA,1.1,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2018,NA,Total,NA,Material inadecuado de pisos,NA,6.1,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2018,NA,Total,NA,Rezago escolar,NA,33,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2018,NA,Total,NA,Sin acceso a fuente de agua mejorada,NA,15.1,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2018,NA,Total,NA,Sin aseguramiento en salud,NA,6.5,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2018,NA,Total,NA,Trabajo infantil,NA,2.3,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2018,NA,Total,NA,Trabajo informal,NA,83.6,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2018,NA,Urbano,NA,Analfabetismo,NA,7,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2018,NA,Urbano,NA,Bajo logro educativo,NA,46.2,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2018,NA,Urbano,NA,Barreras a servicios para cuidado de la primera infancia,NA,10,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2018,NA,Urbano,NA,Barreras de acceso a servicios de salud,NA,5.1,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2018,NA,Urbano,NA,Desempleo de larga duración,NA,14.8,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2018,NA,Urbano,NA,Hacinamiento crítico,NA,6.8,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2018,NA,Urbano,NA,Inadecuada eliminación de excretas,NA,0.9,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2018,NA,Urbano,NA,Inasistencia escolar,NA,3,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2018,NA,Urbano,NA,Material inadecuado de paredes exteriores,NA,1.2,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2018,NA,Urbano,NA,Material inadecuado de pisos,NA,1.5,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2018,NA,Urbano,NA,Rezago escolar,NA,30.9,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2018,NA,Urbano,NA,Sin acceso a fuente de agua mejorada,NA,0.1,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2018,NA,Urbano,NA,Sin aseguramiento en salud,NA,6.8,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2018,NA,Urbano,NA,Trabajo infantil,NA,1.5,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2018,NA,Urbano,NA,Trabajo informal,NA,76.4,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2018,NA,Rural,NA,Analfabetismo,NA,12.5,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2018,NA,Rural,NA,Bajo logro educativo,NA,81.5,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2018,NA,Rural,NA,Barreras a servicios para cuidado de la primera infancia,NA,6.5,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2018,NA,Rural,NA,Barreras de acceso a servicios de salud,NA,5.1,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2018,NA,Rural,NA,Desempleo de larga duración,NA,10.7,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2018,NA,Rural,NA,Hacinamiento crítico,NA,3.9,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2018,NA,Rural,NA,Inadecuada eliminación de excretas,NA,17.3,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2018,NA,Rural,NA,Inasistencia escolar,NA,5.5,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2018,NA,Rural,NA,Material inadecuado de paredes exteriores,NA,1,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2018,NA,Rural,NA,Material inadecuado de pisos,NA,13.4,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2018,NA,Rural,NA,Rezago escolar,NA,36.3,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2018,NA,Rural,NA,Sin acceso a fuente de agua mejorada,NA,39.2,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2018,NA,Rural,NA,Sin aseguramiento en salud,NA,6,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2018,NA,Rural,NA,Trabajo infantil,NA,3.7,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2018,NA,Rural,NA,Trabajo informal,NA,95.3,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2018,NA,NA,NA,NA,NA,39.8,Pobreza multidimensional,Porcentaje de privaciones en personas en pobreza multidimensional,Sin desagregación,IPM privaciones total
+COL,Huila,2018,Hombre,NA,NA,NA,NA,18.1,Pobreza multidimensional,Incidencia del IPM,Sexo,IPM sexo
+COL,Huila,2018,Mujer,NA,NA,NA,NA,17.8,Pobreza multidimensional,Incidencia del IPM,Sexo,IPM sexo
+COL,Huila,2018,NA,Total,NA,NA,NA,18,Pobreza multidimensional,Incidencia del IPM,Área,IPM área
+COL,Huila,2018,NA,Urbano,NA,NA,NA,12.1,Pobreza multidimensional,Incidencia del IPM,Área,IPM área
+COL,Huila,2018,NA,Rural,NA,NA,NA,27,Pobreza multidimensional,Incidencia del IPM,Área,IPM área
+COL,Huila,2019,NA,NA,NA,NA,Educación,34.1,Pobreza multidimensional,Contribución por dimensión al IPM,Dimensión,IPM contribuciones
+COL,Huila,2019,NA,NA,NA,NA,Niñez y Juventud,18.1,Pobreza multidimensional,Contribución por dimensión al IPM,Dimensión,IPM contribuciones
+COL,Huila,2019,NA,NA,NA,NA,Trabajo,27.9,Pobreza multidimensional,Contribución por dimensión al IPM,Dimensión,IPM contribuciones
+COL,Huila,2019,NA,NA,NA,NA,Salud,9.8,Pobreza multidimensional,Contribución por dimensión al IPM,Dimensión,IPM contribuciones
+COL,Huila,2019,NA,NA,NA,NA,Vivienda,10.2,Pobreza multidimensional,Contribución por dimensión al IPM,Dimensión,IPM contribuciones
+COL,Huila,2019,NA,NA,Hombre,NA,NA,16.6,Pobreza multidimensional,Incidencia del IPM,Sexo del jefe del hogar,IPM jefe sexo
+COL,Huila,2019,NA,NA,Mujer,NA,NA,21.8,Pobreza multidimensional,Incidencia del IPM,Sexo del jefe del hogar,IPM jefe sexo
+COL,Huila,2019,NA,Total,NA,Analfabetismo,NA,9.2,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2019,NA,Total,NA,Bajo logro educativo,NA,56.4,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2019,NA,Total,NA,Barreras a servicios para cuidado de la primera infancia,NA,8.2,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2019,NA,Total,NA,Barreras de acceso a servicios de salud,NA,5,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2019,NA,Total,NA,Desempleo de larga duración,NA,10.8,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2019,NA,Total,NA,Hacinamiento crítico,NA,6.1,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2019,NA,Total,NA,Inadecuada eliminación de excretas,NA,7.4,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2019,NA,Total,NA,Inasistencia escolar,NA,4.6,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2019,NA,Total,NA,Material inadecuado de paredes exteriores,NA,1.6,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2019,NA,Total,NA,Material inadecuado de pisos,NA,7.6,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2019,NA,Total,NA,Rezago escolar,NA,29.3,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2019,NA,Total,NA,Sin acceso a fuente de agua mejorada,NA,14.4,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2019,NA,Total,NA,Sin aseguramiento en salud,NA,7.3,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2019,NA,Total,NA,Trabajo infantil,NA,3.6,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2019,NA,Total,NA,Trabajo informal,NA,82.5,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2019,NA,Urbano,NA,Analfabetismo,NA,6.8,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2019,NA,Urbano,NA,Bajo logro educativo,NA,40.2,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2019,NA,Urbano,NA,Barreras a servicios para cuidado de la primera infancia,NA,9.9,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2019,NA,Urbano,NA,Barreras de acceso a servicios de salud,NA,3.3,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2019,NA,Urbano,NA,Desempleo de larga duración,NA,13.8,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2019,NA,Urbano,NA,Hacinamiento crítico,NA,7.5,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2019,NA,Urbano,NA,Inadecuada eliminación de excretas,NA,2.4,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2019,NA,Urbano,NA,Inasistencia escolar,NA,3.5,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2019,NA,Urbano,NA,Material inadecuado de paredes exteriores,NA,2.1,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2019,NA,Urbano,NA,Material inadecuado de pisos,NA,3,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2019,NA,Urbano,NA,Rezago escolar,NA,26.4,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2019,NA,Urbano,NA,Sin acceso a fuente de agua mejorada,NA,0.2,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2019,NA,Urbano,NA,Sin aseguramiento en salud,NA,8.1,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2019,NA,Urbano,NA,Trabajo infantil,NA,1.9,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2019,NA,Urbano,NA,Trabajo informal,NA,74.2,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2019,NA,Rural,NA,Analfabetismo,NA,13,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2019,NA,Rural,NA,Bajo logro educativo,NA,82.7,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2019,NA,Rural,NA,Barreras a servicios para cuidado de la primera infancia,NA,5.4,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2019,NA,Rural,NA,Barreras de acceso a servicios de salud,NA,7.7,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2019,NA,Rural,NA,Desempleo de larga duración,NA,5.9,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2019,NA,Rural,NA,Hacinamiento crítico,NA,3.8,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2019,NA,Rural,NA,Inadecuada eliminación de excretas,NA,15.4,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2019,NA,Rural,NA,Inasistencia escolar,NA,6.4,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2019,NA,Rural,NA,Material inadecuado de paredes exteriores,NA,0.8,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2019,NA,Rural,NA,Material inadecuado de pisos,NA,15,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2019,NA,Rural,NA,Rezago escolar,NA,33.9,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2019,NA,Rural,NA,Sin acceso a fuente de agua mejorada,NA,37.6,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2019,NA,Rural,NA,Sin aseguramiento en salud,NA,5.9,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2019,NA,Rural,NA,Trabajo infantil,NA,6.3,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2019,NA,Rural,NA,Trabajo informal,NA,95.8,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2019,NA,NA,NA,NA,NA,40.3,Pobreza multidimensional,Porcentaje de privaciones en personas en pobreza multidimensional,Sin desagregación,IPM privaciones total
+COL,Huila,2019,Hombre,NA,NA,NA,NA,18.6,Pobreza multidimensional,Incidencia del IPM,Sexo,IPM sexo
+COL,Huila,2019,Mujer,NA,NA,NA,NA,17.9,Pobreza multidimensional,Incidencia del IPM,Sexo,IPM sexo
+COL,Huila,2019,NA,Total,NA,NA,NA,18.3,Pobreza multidimensional,Incidencia del IPM,Área,IPM área
+COL,Huila,2019,NA,Urbano,NA,NA,NA,12.5,Pobreza multidimensional,Incidencia del IPM,Área,IPM área
+COL,Huila,2019,NA,Rural,NA,NA,NA,27.1,Pobreza multidimensional,Incidencia del IPM,Área,IPM área
+COL,Huila,2020,NA,NA,NA,NA,Educación,30.4,Pobreza multidimensional,Contribución por dimensión al IPM,Dimensión,IPM contribuciones
+COL,Huila,2020,NA,NA,NA,NA,Niñez y Juventud,21.8,Pobreza multidimensional,Contribución por dimensión al IPM,Dimensión,IPM contribuciones
+COL,Huila,2020,NA,NA,NA,NA,Trabajo,27.3,Pobreza multidimensional,Contribución por dimensión al IPM,Dimensión,IPM contribuciones
+COL,Huila,2020,NA,NA,NA,NA,Salud,10.9,Pobreza multidimensional,Contribución por dimensión al IPM,Dimensión,IPM contribuciones
+COL,Huila,2020,NA,NA,NA,NA,Vivienda,9.6,Pobreza multidimensional,Contribución por dimensión al IPM,Dimensión,IPM contribuciones
+COL,Huila,2020,NA,NA,Hombre,NA,NA,24.4,Pobreza multidimensional,Incidencia del IPM,Sexo del jefe del hogar,IPM jefe sexo
+COL,Huila,2020,NA,NA,Mujer,NA,NA,21.1,Pobreza multidimensional,Incidencia del IPM,Sexo del jefe del hogar,IPM jefe sexo
+COL,Huila,2020,NA,Total,NA,Analfabetismo,NA,9.1,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2020,NA,Total,NA,Bajo logro educativo,NA,53.6,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2020,NA,Total,NA,Barreras a servicios para cuidado de la primera infancia,NA,7.6,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2020,NA,Total,NA,Barreras de acceso a servicios de salud,NA,6.4,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2020,NA,Total,NA,Desempleo de larga duración,NA,12.3,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2020,NA,Total,NA,Hacinamiento crítico,NA,6.2,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2020,NA,Total,NA,Inadecuada eliminación de excretas,NA,6.4,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2020,NA,Total,NA,Inasistencia escolar,NA,24.1,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2020,NA,Total,NA,Material inadecuado de paredes exteriores,NA,2,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2020,NA,Total,NA,Material inadecuado de pisos,NA,6.2,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2020,NA,Total,NA,Rezago escolar,NA,28.9,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2020,NA,Total,NA,Sin acceso a fuente de agua mejorada,NA,11.5,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2020,NA,Total,NA,Sin aseguramiento en salud,NA,7.4,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2020,NA,Total,NA,Trabajo infantil,NA,3.4,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2020,NA,Total,NA,Trabajo informal,NA,82.6,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2020,NA,Urbano,NA,Analfabetismo,NA,5.8,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2020,NA,Urbano,NA,Bajo logro educativo,NA,40.5,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2020,NA,Urbano,NA,Barreras a servicios para cuidado de la primera infancia,NA,7.4,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2020,NA,Urbano,NA,Barreras de acceso a servicios de salud,NA,3.6,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2020,NA,Urbano,NA,Desempleo de larga duración,NA,14.8,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2020,NA,Urbano,NA,Hacinamiento crítico,NA,6.7,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2020,NA,Urbano,NA,Inadecuada eliminación de excretas,NA,1.6,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2020,NA,Urbano,NA,Inasistencia escolar,NA,17.9,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2020,NA,Urbano,NA,Material inadecuado de paredes exteriores,NA,2.8,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2020,NA,Urbano,NA,Material inadecuado de pisos,NA,2.3,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2020,NA,Urbano,NA,Rezago escolar,NA,26.2,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2020,NA,Urbano,NA,Sin acceso a fuente de agua mejorada,NA,0.1,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2020,NA,Urbano,NA,Sin aseguramiento en salud,NA,7.4,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2020,NA,Urbano,NA,Trabajo infantil,NA,1.6,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2020,NA,Urbano,NA,Trabajo informal,NA,75.3,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2020,NA,Rural,NA,Analfabetismo,NA,14.8,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2020,NA,Rural,NA,Bajo logro educativo,NA,76.2,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2020,NA,Rural,NA,Barreras a servicios para cuidado de la primera infancia,NA,8,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2020,NA,Rural,NA,Barreras de acceso a servicios de salud,NA,11.2,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2020,NA,Rural,NA,Desempleo de larga duración,NA,7.9,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2020,NA,Rural,NA,Hacinamiento crítico,NA,5.3,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2020,NA,Rural,NA,Inadecuada eliminación de excretas,NA,14.6,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2020,NA,Rural,NA,Inasistencia escolar,NA,34.7,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2020,NA,Rural,NA,Material inadecuado de paredes exteriores,NA,0.7,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2020,NA,Rural,NA,Material inadecuado de pisos,NA,12.8,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2020,NA,Rural,NA,Rezago escolar,NA,33.6,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2020,NA,Rural,NA,Sin acceso a fuente de agua mejorada,NA,31.1,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2020,NA,Rural,NA,Sin aseguramiento en salud,NA,7.3,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2020,NA,Rural,NA,Trabajo infantil,NA,6.5,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2020,NA,Rural,NA,Trabajo informal,NA,95.1,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2020,NA,NA,NA,NA,NA,40.9,Pobreza multidimensional,Porcentaje de privaciones en personas en pobreza multidimensional,Sin desagregación,IPM privaciones total
+COL,Huila,2020,Hombre,NA,NA,NA,NA,24.6,Pobreza multidimensional,Incidencia del IPM,Sexo,IPM sexo
+COL,Huila,2020,Mujer,NA,NA,NA,NA,22.2,Pobreza multidimensional,Incidencia del IPM,Sexo,IPM sexo
+COL,Huila,2020,NA,Total,NA,NA,NA,23.400000000000002,Pobreza multidimensional,Incidencia del IPM,Área,IPM área
+COL,Huila,2020,NA,Urbano,NA,NA,NA,13.100000000000001,Pobreza multidimensional,Incidencia del IPM,Área,IPM área
+COL,Huila,2020,NA,Rural,NA,NA,NA,39,Pobreza multidimensional,Incidencia del IPM,Área,IPM área
+COL,Huila,2021,NA,NA,NA,NA,Educación,33.9,Pobreza multidimensional,Contribución por dimensión al IPM,Dimensión,IPM contribuciones
+COL,Huila,2021,NA,NA,NA,NA,Niñez y Juventud,21.6,Pobreza multidimensional,Contribución por dimensión al IPM,Dimensión,IPM contribuciones
+COL,Huila,2021,NA,NA,NA,NA,Trabajo,28.7,Pobreza multidimensional,Contribución por dimensión al IPM,Dimensión,IPM contribuciones
+COL,Huila,2021,NA,NA,NA,NA,Salud,6,Pobreza multidimensional,Contribución por dimensión al IPM,Dimensión,IPM contribuciones
+COL,Huila,2021,NA,NA,NA,NA,Vivienda,9.8,Pobreza multidimensional,Contribución por dimensión al IPM,Dimensión,IPM contribuciones
+COL,Huila,2021,NA,NA,Hombre,NA,NA,17.1,Pobreza multidimensional,Incidencia del IPM,Sexo del jefe del hogar,IPM jefe sexo
+COL,Huila,2021,NA,NA,Mujer,NA,NA,18.5,Pobreza multidimensional,Incidencia del IPM,Sexo del jefe del hogar,IPM jefe sexo
+COL,Huila,2021,NA,Total,NA,Analfabetismo,NA,8.3,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2021,NA,Total,NA,Bajo logro educativo,NA,55.6,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2021,NA,Total,NA,Barreras a servicios para cuidado de la primera infancia,NA,10.3,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2021,NA,Total,NA,Barreras de acceso a servicios de salud,NA,1.1,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2021,NA,Total,NA,Desempleo de larga duración,NA,12,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2021,NA,Total,NA,Hacinamiento crítico,NA,6,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2021,NA,Total,NA,Inadecuada eliminación de excretas,NA,6.3,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2021,NA,Total,NA,Inasistencia escolar,NA,7.4,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2021,NA,Total,NA,Material inadecuado de paredes exteriores,NA,1.9,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2021,NA,Total,NA,Material inadecuado de pisos,NA,5.8,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2021,NA,Total,NA,Rezago escolar,NA,28.5,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2021,NA,Total,NA,Sin acceso a fuente de agua mejorada,NA,14.4,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2021,NA,Total,NA,Sin aseguramiento en salud,NA,5.6,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2021,NA,Total,NA,Trabajo infantil,NA,3.4,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2021,NA,Total,NA,Trabajo informal,NA,82.3,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2021,NA,Urbano,NA,Analfabetismo,NA,6.2,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2021,NA,Urbano,NA,Bajo logro educativo,NA,42.5,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2021,NA,Urbano,NA,Barreras a servicios para cuidado de la primera infancia,NA,10.2,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2021,NA,Urbano,NA,Barreras de acceso a servicios de salud,NA,1.5,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2021,NA,Urbano,NA,Desempleo de larga duración,NA,14.2,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2021,NA,Urbano,NA,Hacinamiento crítico,NA,7.9,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2021,NA,Urbano,NA,Inadecuada eliminación de excretas,NA,1.4,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2021,NA,Urbano,NA,Inasistencia escolar,NA,6.6,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2021,NA,Urbano,NA,Material inadecuado de paredes exteriores,NA,2.5,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2021,NA,Urbano,NA,Material inadecuado de pisos,NA,2.9,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2021,NA,Urbano,NA,Rezago escolar,NA,27,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2021,NA,Urbano,NA,Sin acceso a fuente de agua mejorada,NA,0.4,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2021,NA,Urbano,NA,Sin aseguramiento en salud,NA,6.7,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2021,NA,Urbano,NA,Trabajo infantil,NA,1.6,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2021,NA,Urbano,NA,Trabajo informal,NA,74.5,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2021,NA,Rural,NA,Analfabetismo,NA,11.7,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2021,NA,Rural,NA,Bajo logro educativo,NA,77,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2021,NA,Rural,NA,Barreras a servicios para cuidado de la primera infancia,NA,10.4,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2021,NA,Rural,NA,Barreras de acceso a servicios de salud,NA,0.5,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2021,NA,Rural,NA,Desempleo de larga duración,NA,8.5,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2021,NA,Rural,NA,Hacinamiento crítico,NA,2.8,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2021,NA,Rural,NA,Inadecuada eliminación de excretas,NA,14.3,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2021,NA,Rural,NA,Inasistencia escolar,NA,8.7,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2021,NA,Rural,NA,Material inadecuado de paredes exteriores,NA,0.9,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2021,NA,Rural,NA,Material inadecuado de pisos,NA,10.5,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2021,NA,Rural,NA,Rezago escolar,NA,31,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2021,NA,Rural,NA,Sin acceso a fuente de agua mejorada,NA,37.5,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2021,NA,Rural,NA,Sin aseguramiento en salud,NA,3.7,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2021,NA,Rural,NA,Trabajo infantil,NA,6.5,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2021,NA,Rural,NA,Trabajo informal,NA,95.2,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2021,NA,NA,NA,NA,NA,38.9,Pobreza multidimensional,Porcentaje de privaciones en personas en pobreza multidimensional,Sin desagregación,IPM privaciones total
+COL,Huila,2021,Hombre,NA,NA,NA,NA,17.9,Pobreza multidimensional,Incidencia del IPM,Sexo,IPM sexo
+COL,Huila,2021,Mujer,NA,NA,NA,NA,17.1,Pobreza multidimensional,Incidencia del IPM,Sexo,IPM sexo
+COL,Huila,2021,NA,Total,NA,NA,NA,17.5,Pobreza multidimensional,Incidencia del IPM,Área,IPM área
+COL,Huila,2021,NA,Urbano,NA,NA,NA,11.799999999999999,Pobreza multidimensional,Incidencia del IPM,Área,IPM área
+COL,Huila,2021,NA,Rural,NA,NA,NA,26.1,Pobreza multidimensional,Incidencia del IPM,Área,IPM área
+COL,Huila,2022,NA,NA,NA,NA,Educación,36.9,Pobreza multidimensional,Contribución por dimensión al IPM,Dimensión,IPM contribuciones
+COL,Huila,2022,NA,NA,NA,NA,Niñez y Juventud,18.5,Pobreza multidimensional,Contribución por dimensión al IPM,Dimensión,IPM contribuciones
+COL,Huila,2022,NA,NA,NA,NA,Trabajo,28.9,Pobreza multidimensional,Contribución por dimensión al IPM,Dimensión,IPM contribuciones
+COL,Huila,2022,NA,NA,NA,NA,Salud,7,Pobreza multidimensional,Contribución por dimensión al IPM,Dimensión,IPM contribuciones
+COL,Huila,2022,NA,NA,NA,NA,Vivienda,8.7,Pobreza multidimensional,Contribución por dimensión al IPM,Dimensión,IPM contribuciones
+COL,Huila,2022,NA,NA,Hombre,NA,NA,12.5,Pobreza multidimensional,Incidencia del IPM,Sexo del jefe del hogar,IPM jefe sexo
+COL,Huila,2022,NA,NA,Mujer,NA,NA,14.6,Pobreza multidimensional,Incidencia del IPM,Sexo del jefe del hogar,IPM jefe sexo
+COL,Huila,2022,NA,Total,NA,Analfabetismo,NA,8.8,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2022,NA,Total,NA,Bajo logro educativo,NA,55.3,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2022,NA,Total,NA,Barreras a servicios para cuidado de la primera infancia,NA,7.3,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2022,NA,Total,NA,Barreras de acceso a servicios de salud,NA,2.8,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2022,NA,Total,NA,Desempleo de larga duración,NA,12.3,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2022,NA,Total,NA,Hacinamiento crítico,NA,6,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2022,NA,Total,NA,Inadecuada eliminación de excretas,NA,6.6,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2022,NA,Total,NA,Inasistencia escolar,NA,3.9,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2022,NA,Total,NA,Material inadecuado de paredes exteriores,NA,1.3,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2022,NA,Total,NA,Material inadecuado de pisos,NA,4.6,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2022,NA,Total,NA,Rezago escolar,NA,27.1,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2022,NA,Total,NA,Sin acceso a fuente de agua mejorada,NA,12.2,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2022,NA,Total,NA,Sin aseguramiento en salud,NA,4,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2022,NA,Total,NA,Trabajo infantil,NA,3.6,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2022,NA,Total,NA,Trabajo informal,NA,84,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2022,NA,Urbano,NA,Analfabetismo,NA,6.9,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2022,NA,Urbano,NA,Bajo logro educativo,NA,43.1,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2022,NA,Urbano,NA,Barreras a servicios para cuidado de la primera infancia,NA,8.1,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2022,NA,Urbano,NA,Barreras de acceso a servicios de salud,NA,2.1,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2022,NA,Urbano,NA,Desempleo de larga duración,NA,15.5,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2022,NA,Urbano,NA,Hacinamiento crítico,NA,8,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2022,NA,Urbano,NA,Inadecuada eliminación de excretas,NA,1.2,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2022,NA,Urbano,NA,Inasistencia escolar,NA,2.8,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2022,NA,Urbano,NA,Material inadecuado de paredes exteriores,NA,1.3,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2022,NA,Urbano,NA,Material inadecuado de pisos,NA,1,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2022,NA,Urbano,NA,Rezago escolar,NA,23.8,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2022,NA,Urbano,NA,Sin acceso a fuente de agua mejorada,NA,0.2,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2022,NA,Urbano,NA,Sin aseguramiento en salud,NA,4.3,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2022,NA,Urbano,NA,Trabajo infantil,NA,1.6,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2022,NA,Urbano,NA,Trabajo informal,NA,77.1,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2022,NA,Rural,NA,Analfabetismo,NA,12,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2022,NA,Rural,NA,Bajo logro educativo,NA,75.3,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2022,NA,Rural,NA,Barreras a servicios para cuidado de la primera infancia,NA,5.8,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2022,NA,Rural,NA,Barreras de acceso a servicios de salud,NA,3.9,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2022,NA,Rural,NA,Desempleo de larga duración,NA,7.1,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2022,NA,Rural,NA,Hacinamiento crítico,NA,2.7,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2022,NA,Rural,NA,Inadecuada eliminación de excretas,NA,15.5,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2022,NA,Rural,NA,Inasistencia escolar,NA,5.8,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2022,NA,Rural,NA,Material inadecuado de paredes exteriores,NA,1.4,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2022,NA,Rural,NA,Material inadecuado de pisos,NA,10.4,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2022,NA,Rural,NA,Rezago escolar,NA,32.3,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2022,NA,Rural,NA,Sin acceso a fuente de agua mejorada,NA,32,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2022,NA,Rural,NA,Sin aseguramiento en salud,NA,3.6,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2022,NA,Rural,NA,Trabajo infantil,NA,6.9,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2022,NA,Rural,NA,Trabajo informal,NA,95.4,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2022,NA,NA,NA,NA,NA,39.6,Pobreza multidimensional,Porcentaje de privaciones en personas en pobreza multidimensional,Sin desagregación,IPM privaciones total
+COL,Huila,2022,Hombre,NA,NA,NA,NA,13.6,Pobreza multidimensional,Incidencia del IPM,Sexo,IPM sexo
+COL,Huila,2022,Mujer,NA,NA,NA,NA,12.9,Pobreza multidimensional,Incidencia del IPM,Sexo,IPM sexo
+COL,Huila,2022,NA,Total,NA,NA,NA,13.3,Pobreza multidimensional,Incidencia del IPM,Área,IPM área
+COL,Huila,2022,NA,Urbano,NA,NA,NA,9,Pobreza multidimensional,Incidencia del IPM,Área,IPM área
+COL,Huila,2022,NA,Rural,NA,NA,NA,19.7,Pobreza multidimensional,Incidencia del IPM,Área,IPM área
+COL,Huila,2023,NA,NA,NA,NA,Educación,34.5,Pobreza multidimensional,Contribución por dimensión al IPM,Dimensión,IPM contribuciones
+COL,Huila,2023,NA,NA,NA,NA,Niñez y Juventud,20.2,Pobreza multidimensional,Contribución por dimensión al IPM,Dimensión,IPM contribuciones
+COL,Huila,2023,NA,NA,NA,NA,Trabajo,30.4,Pobreza multidimensional,Contribución por dimensión al IPM,Dimensión,IPM contribuciones
+COL,Huila,2023,NA,NA,NA,NA,Salud,6.7,Pobreza multidimensional,Contribución por dimensión al IPM,Dimensión,IPM contribuciones
+COL,Huila,2023,NA,NA,NA,NA,Vivienda,8.3,Pobreza multidimensional,Contribución por dimensión al IPM,Dimensión,IPM contribuciones
+COL,Huila,2023,NA,NA,Hombre,NA,NA,11.6,Pobreza multidimensional,Incidencia del IPM,Sexo del jefe del hogar,IPM jefe sexo
+COL,Huila,2023,NA,NA,Mujer,NA,NA,12.6,Pobreza multidimensional,Incidencia del IPM,Sexo del jefe del hogar,IPM jefe sexo
+COL,Huila,2023,NA,Total,NA,Analfabetismo,NA,7.1,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2023,NA,Total,NA,Bajo logro educativo,NA,52.8,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2023,NA,Total,NA,Barreras a servicios para cuidado de la primera infancia,NA,6.3,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2023,NA,Total,NA,Barreras de acceso a servicios de salud,NA,1.3,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2023,NA,Total,NA,Desempleo de larga duración,NA,12.3,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2023,NA,Total,NA,Hacinamiento crítico,NA,5.2,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2023,NA,Total,NA,Inadecuada eliminación de excretas,NA,3.5,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2023,NA,Total,NA,Inasistencia escolar,NA,3.9,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2023,NA,Total,NA,Material inadecuado de paredes exteriores,NA,1.9,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2023,NA,Total,NA,Material inadecuado de pisos,NA,4.9,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2023,NA,Total,NA,Rezago escolar,NA,28.2,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2023,NA,Total,NA,Sin acceso a fuente de agua mejorada,NA,10.9,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2023,NA,Total,NA,Sin aseguramiento en salud,NA,4.1,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2023,NA,Total,NA,Trabajo infantil,NA,3.2,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2023,NA,Total,NA,Trabajo informal,NA,83.1,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2023,NA,Urbano,NA,Analfabetismo,NA,5.1,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2023,NA,Urbano,NA,Bajo logro educativo,NA,38.3,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2023,NA,Urbano,NA,Barreras a servicios para cuidado de la primera infancia,NA,7.3,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2023,NA,Urbano,NA,Barreras de acceso a servicios de salud,NA,1.1,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2023,NA,Urbano,NA,Desempleo de larga duración,NA,13.8,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2023,NA,Urbano,NA,Hacinamiento crítico,NA,6.6,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2023,NA,Urbano,NA,Inadecuada eliminación de excretas,NA,1,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2023,NA,Urbano,NA,Inasistencia escolar,NA,2.7,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2023,NA,Urbano,NA,Material inadecuado de paredes exteriores,NA,2.3,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2023,NA,Urbano,NA,Material inadecuado de pisos,NA,1.8,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2023,NA,Urbano,NA,Rezago escolar,NA,26.8,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2023,NA,Urbano,NA,Sin acceso a fuente de agua mejorada,NA,0.1,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2023,NA,Urbano,NA,Sin aseguramiento en salud,NA,4.4,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2023,NA,Urbano,NA,Trabajo infantil,NA,2.1,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2023,NA,Urbano,NA,Trabajo informal,NA,75.1,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2023,NA,Rural,NA,Analfabetismo,NA,10.5,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2023,NA,Rural,NA,Bajo logro educativo,NA,76.4,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2023,NA,Rural,NA,Barreras a servicios para cuidado de la primera infancia,NA,4.7,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2023,NA,Rural,NA,Barreras de acceso a servicios de salud,NA,1.7,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2023,NA,Rural,NA,Desempleo de larga duración,NA,10,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2023,NA,Rural,NA,Hacinamiento crítico,NA,3,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2023,NA,Rural,NA,Inadecuada eliminación de excretas,NA,7.5,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2023,NA,Rural,NA,Inasistencia escolar,NA,5.8,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2023,NA,Rural,NA,Material inadecuado de paredes exteriores,NA,1.1,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2023,NA,Rural,NA,Material inadecuado de pisos,NA,9.9,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2023,NA,Rural,NA,Rezago escolar,NA,30.4,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2023,NA,Rural,NA,Sin acceso a fuente de agua mejorada,NA,28.5,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2023,NA,Rural,NA,Sin aseguramiento en salud,NA,3.6,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2023,NA,Rural,NA,Trabajo infantil,NA,4.9,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2023,NA,Rural,NA,Trabajo informal,NA,96.1,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2023,NA,NA,NA,NA,NA,38.7,Pobreza multidimensional,Porcentaje de privaciones en personas en pobreza multidimensional,Sin desagregación,IPM privaciones total
+COL,Huila,2023,Hombre,NA,NA,NA,NA,11.9,Pobreza multidimensional,Incidencia del IPM,Sexo,IPM sexo
+COL,Huila,2023,Mujer,NA,NA,NA,NA,12,Pobreza multidimensional,Incidencia del IPM,Sexo,IPM sexo
+COL,Huila,2023,NA,Total,NA,NA,NA,11.899999999999999,Pobreza multidimensional,Incidencia del IPM,Área,IPM área
+COL,Huila,2023,NA,Urbano,NA,NA,NA,7.199999999999999,Pobreza multidimensional,Incidencia del IPM,Área,IPM área
+COL,Huila,2023,NA,Rural,NA,NA,NA,19.1,Pobreza multidimensional,Incidencia del IPM,Área,IPM área
+COL,Huila,2024,NA,NA,NA,NA,Educación,34.9,Pobreza multidimensional,Contribución por dimensión al IPM,Dimensión,IPM contribuciones
+COL,Huila,2024,NA,NA,NA,NA,Niñez y Juventud,19.2,Pobreza multidimensional,Contribución por dimensión al IPM,Dimensión,IPM contribuciones
+COL,Huila,2024,NA,NA,NA,NA,Trabajo,31.7,Pobreza multidimensional,Contribución por dimensión al IPM,Dimensión,IPM contribuciones
+COL,Huila,2024,NA,NA,NA,NA,Salud,5.1,Pobreza multidimensional,Contribución por dimensión al IPM,Dimensión,IPM contribuciones
+COL,Huila,2024,NA,NA,NA,NA,Vivienda,9,Pobreza multidimensional,Contribución por dimensión al IPM,Dimensión,IPM contribuciones
+COL,Huila,2024,NA,NA,Hombre,NA,NA,10.5,Pobreza multidimensional,Incidencia del IPM,Sexo del jefe del hogar,IPM jefe sexo
+COL,Huila,2024,NA,NA,Mujer,NA,NA,11.4,Pobreza multidimensional,Incidencia del IPM,Sexo del jefe del hogar,IPM jefe sexo
+COL,Huila,2024,NA,Total,NA,Analfabetismo,NA,6.5,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2024,NA,Total,NA,Bajo logro educativo,NA,51.7,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2024,NA,Total,NA,Barreras a servicios para cuidado de la primera infancia,NA,6.2,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2024,NA,Total,NA,Barreras de acceso a servicios de salud,NA,0.5,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2024,NA,Total,NA,Desempleo de larga duración,NA,12.9,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2024,NA,Total,NA,Hacinamiento crítico,NA,4.7,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2024,NA,Total,NA,Inadecuada eliminación de excretas,NA,7,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2024,NA,Total,NA,Inasistencia escolar,NA,3.6,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2024,NA,Total,NA,Material inadecuado de paredes exteriores,NA,1.4,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2024,NA,Total,NA,Material inadecuado de pisos,NA,4,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2024,NA,Total,NA,Rezago escolar,NA,24,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2024,NA,Total,NA,Sin acceso a fuente de agua mejorada,NA,10.3,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2024,NA,Total,NA,Sin aseguramiento en salud,NA,4.2,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2024,NA,Total,NA,Trabajo infantil,NA,2.5,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2024,NA,Total,NA,Trabajo informal,NA,82,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2024,NA,Urbano,NA,Analfabetismo,NA,5.9,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2024,NA,Urbano,NA,Bajo logro educativo,NA,37.5,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2024,NA,Urbano,NA,Barreras a servicios para cuidado de la primera infancia,NA,6.8,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2024,NA,Urbano,NA,Barreras de acceso a servicios de salud,NA,0.5,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2024,NA,Urbano,NA,Desempleo de larga duración,NA,15.5,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2024,NA,Urbano,NA,Hacinamiento crítico,NA,6,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2024,NA,Urbano,NA,Inadecuada eliminación de excretas,NA,1.9,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2024,NA,Urbano,NA,Inasistencia escolar,NA,2.1,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2024,NA,Urbano,NA,Material inadecuado de paredes exteriores,NA,1.9,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2024,NA,Urbano,NA,Material inadecuado de pisos,NA,1.7,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2024,NA,Urbano,NA,Rezago escolar,NA,21.3,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2024,NA,Urbano,NA,Sin acceso a fuente de agua mejorada,NA,0.4,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2024,NA,Urbano,NA,Sin aseguramiento en salud,NA,5,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2024,NA,Urbano,NA,Trabajo infantil,NA,1,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2024,NA,Urbano,NA,Trabajo informal,NA,73.6,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2024,NA,Rural,NA,Analfabetismo,NA,7.6,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2024,NA,Rural,NA,Bajo logro educativo,NA,74.8,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2024,NA,Rural,NA,Barreras a servicios para cuidado de la primera infancia,NA,5.3,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2024,NA,Rural,NA,Barreras de acceso a servicios de salud,NA,0.6,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2024,NA,Rural,NA,Desempleo de larga duración,NA,8.7,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2024,NA,Rural,NA,Hacinamiento crítico,NA,2.4,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2024,NA,Rural,NA,Inadecuada eliminación de excretas,NA,15.2,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2024,NA,Rural,NA,Inasistencia escolar,NA,6,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2024,NA,Rural,NA,Material inadecuado de paredes exteriores,NA,0.5,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2024,NA,Rural,NA,Material inadecuado de pisos,NA,7.7,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2024,NA,Rural,NA,Rezago escolar,NA,28.4,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2024,NA,Rural,NA,Sin acceso a fuente de agua mejorada,NA,26.5,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2024,NA,Rural,NA,Sin aseguramiento en salud,NA,3,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2024,NA,Rural,NA,Trabajo infantil,NA,5,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2024,NA,Rural,NA,Trabajo informal,NA,95.8,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2024,NA,NA,NA,NA,NA,38.2,Pobreza multidimensional,Porcentaje de privaciones en personas en pobreza multidimensional,Sin desagregación,IPM privaciones total
+COL,Huila,2024,Hombre,NA,NA,NA,NA,11.1,Pobreza multidimensional,Incidencia del IPM,Sexo,IPM sexo
+COL,Huila,2024,Mujer,NA,NA,NA,NA,10.7,Pobreza multidimensional,Incidencia del IPM,Sexo,IPM sexo
+COL,Huila,2024,NA,Total,NA,NA,NA,10.9,Pobreza multidimensional,Incidencia del IPM,Área,IPM área
+COL,Huila,2024,NA,Urbano,NA,NA,NA,7.6,Pobreza multidimensional,Incidencia del IPM,Área,IPM área
+COL,Huila,2024,NA,Rural,NA,NA,NA,15.8,Pobreza multidimensional,Incidencia del IPM,Área,IPM área
+COL,Huila,2025,NA,NA,NA,NA,Educación,34.4,Pobreza multidimensional,Contribución por dimensión al IPM,Dimensión,IPM contribuciones
+COL,Huila,2025,NA,NA,NA,NA,Niñez y Juventud,10.1,Pobreza multidimensional,Contribución por dimensión al IPM,Dimensión,IPM contribuciones
+COL,Huila,2025,NA,NA,NA,NA,Trabajo,31.2,Pobreza multidimensional,Contribución por dimensión al IPM,Dimensión,IPM contribuciones
+COL,Huila,2025,NA,NA,NA,NA,Salud,10.6,Pobreza multidimensional,Contribución por dimensión al IPM,Dimensión,IPM contribuciones
+COL,Huila,2025,NA,NA,NA,NA,Vivienda,13.7,Pobreza multidimensional,Contribución por dimensión al IPM,Dimensión,IPM contribuciones
+COL,Huila,2025,NA,NA,Hombre,NA,NA,10,Pobreza multidimensional,Incidencia del IPM,Sexo del jefe del hogar,IPM jefe sexo
+COL,Huila,2025,NA,NA,Mujer,NA,NA,9.3,Pobreza multidimensional,Incidencia del IPM,Sexo del jefe del hogar,IPM jefe sexo
+COL,Huila,2025,NA,Total,NA,Analfabetismo,NA,6.4,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2025,NA,Total,NA,Bajo logro educativo,NA,50.5,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2025,NA,Total,NA,Barreras a servicios para cuidado de la primera infancia,NA,6.4,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2025,NA,Total,NA,Barreras de acceso a servicios de salud,NA,0.4,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2025,NA,Total,NA,Desempleo de larga duración,NA,11.5,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2025,NA,Total,NA,Hacinamiento crítico,NA,5,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2025,NA,Total,NA,Inadecuada eliminación de excretas,NA,2.3,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2025,NA,Total,NA,Inasistencia escolar,NA,3.9,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2025,NA,Total,NA,Material inadecuado de paredes exteriores,NA,0.9,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2025,NA,Total,NA,Material inadecuado de pisos,NA,3.6,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2025,NA,Total,NA,Rezago escolar,NA,21.9,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2025,NA,Total,NA,Sin acceso a fuente de agua mejorada,NA,8.5,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2025,NA,Total,NA,Sin aseguramiento en salud,NA,2.8,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2025,NA,Total,NA,Trabajo infantil,NA,3.1,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2025,NA,Total,NA,Trabajo informal,NA,81.7,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2025,NA,Urbano,NA,Analfabetismo,NA,5.5,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2025,NA,Urbano,NA,Bajo logro educativo,NA,38.1,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2025,NA,Urbano,NA,Barreras a servicios para cuidado de la primera infancia,NA,6.6,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2025,NA,Urbano,NA,Barreras de acceso a servicios de salud,NA,0.4,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2025,NA,Urbano,NA,Desempleo de larga duración,NA,13.5,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2025,NA,Urbano,NA,Hacinamiento crítico,NA,6.8,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2025,NA,Urbano,NA,Inadecuada eliminación de excretas,NA,1.1,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2025,NA,Urbano,NA,Inasistencia escolar,NA,2.3,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2025,NA,Urbano,NA,Material inadecuado de paredes exteriores,NA,1.1,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2025,NA,Urbano,NA,Material inadecuado de pisos,NA,1.1,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2025,NA,Urbano,NA,Rezago escolar,NA,20.9,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2025,NA,Urbano,NA,Sin acceso a fuente de agua mejorada,NA,0.1,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2025,NA,Urbano,NA,Sin aseguramiento en salud,NA,3.1,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2025,NA,Urbano,NA,Trabajo infantil,NA,2,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2025,NA,Urbano,NA,Trabajo informal,NA,72.8,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2025,NA,Rural,NA,Analfabetismo,NA,8,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2025,NA,Rural,NA,Bajo logro educativo,NA,70.8,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2025,NA,Rural,NA,Barreras a servicios para cuidado de la primera infancia,NA,6.1,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2025,NA,Rural,NA,Barreras de acceso a servicios de salud,NA,0.5,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2025,NA,Rural,NA,Desempleo de larga duración,NA,8.3,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2025,NA,Rural,NA,Hacinamiento crítico,NA,1.9,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2025,NA,Rural,NA,Inadecuada eliminación de excretas,NA,4.2,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2025,NA,Rural,NA,Inasistencia escolar,NA,6.5,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2025,NA,Rural,NA,Material inadecuado de paredes exteriores,NA,0.6,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2025,NA,Rural,NA,Material inadecuado de pisos,NA,7.5,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2025,NA,Rural,NA,Rezago escolar,NA,23.5,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2025,NA,Rural,NA,Sin acceso a fuente de agua mejorada,NA,22.1,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2025,NA,Rural,NA,Sin aseguramiento en salud,NA,2.2,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2025,NA,Rural,NA,Trabajo infantil,NA,4.8,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2025,NA,Rural,NA,Trabajo informal,NA,96.3,Pobreza multidimensional,Porcentaje de privación,Privaciones por hogar y área,IPM privaciones
+COL,Huila,2025,NA,NA,NA,NA,NA,37.3,Pobreza multidimensional,Porcentaje de privaciones en personas en pobreza multidimensional,Sin desagregación,IPM privaciones total
+COL,Huila,2025,Hombre,NA,NA,NA,NA,10.2,Pobreza multidimensional,Incidencia del IPM,Sexo,IPM sexo
+COL,Huila,2025,Mujer,NA,NA,NA,NA,9.2,Pobreza multidimensional,Incidencia del IPM,Sexo,IPM sexo
+COL,Huila,2025,NA,Total,NA,NA,NA,9.700000000000001,Pobreza multidimensional,Incidencia del IPM,Área,IPM área
+COL,Huila,2025,NA,Urbano,NA,NA,NA,6.3,Pobreza multidimensional,Incidencia del IPM,Área,IPM área
+COL,Huila,2025,NA,Rural,NA,NA,NA,14.7,Pobreza multidimensional,Incidencia del IPM,Área,IPM área
